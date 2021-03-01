@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d112424-477d-4a7e-9074-4eb385ecf247" name="Default Changelist" comment="" />
+    <list default="true" id="2d112424-477d-4a7e-9074-4eb385ecf247" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../'Smart' Rockets/SmartRockets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/JavaStuff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACTUAL Neural Network 'framework'/ACTUAL Neural Network 'framework'.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArtBots/ArtBots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blobs/Blobs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanvasStuff/CanvasStuff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chaos Game/Chaos Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chaos Game/out/production/Chaos Game/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chaos Game/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheatSheet/CheatSheet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GridStuff/GridStuff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NEAT Test/NEAT Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neural Network Visual/Neural Network Visual.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberGuess/NumberGuess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Perceptron/Perceptron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzaPie/PizzaPie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellingBots/SpellingBots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -45,11 +70,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="neft-_english_recast" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543851223578" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -117,6 +144,17 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
